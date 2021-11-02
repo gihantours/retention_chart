@@ -4,8 +4,6 @@
 
 ### Installing
 
-Tested environment
-
 
 Step 1
 
