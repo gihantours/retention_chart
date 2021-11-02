@@ -8,13 +8,13 @@
 Step 1
 
 ```
-composer install
+clone the repo
 ```
 
 Step 2
 
 ```
-npm install
+composer install
 ```
 
 Step 3
