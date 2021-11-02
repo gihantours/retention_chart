@@ -62,7 +62,7 @@ php artisan test
 Screenshots
 
 ```
-php artisan test
+please see the screenshots folder
 ```
 
 
